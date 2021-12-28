@@ -1,3 +1,3 @@
-# WebScraper_1
+# WebScraper
 Youtube- selenium-scraper-top 10 trnding vid
  
